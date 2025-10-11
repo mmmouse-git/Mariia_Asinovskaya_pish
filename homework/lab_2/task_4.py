@@ -9,3 +9,4 @@ def summ(number):
 
 
 print(summ(123))
+print(summ(1234))
